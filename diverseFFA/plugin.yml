@@ -1,0 +1,29 @@
+name: DiverseFFA
+main: net.diverse.ffa.Core
+version: 1.0
+author: Diverse
+commands:
+  diverseffa:
+    description: DiverseFFA command
+    usage: /<command>
+    aliases: []
+  coins:
+    description: Coins command
+    usage: /<command>
+    aliases: [points, puntos, monedas, money, dinero]
+  spawn:
+    description: Spawn command
+    usage: /<command>
+    aliases: []
+  spectate:
+    description: Spectate command
+    usage: /<command>
+    aliases: [spec, espectador]
+  stats:
+    description: Stats command
+    usage: /<command>
+    aliases: [statistics, estadisticas]
+  enderchest:
+    description: Enderchest command
+    usage: /<command>
+    aliases: [ec]
