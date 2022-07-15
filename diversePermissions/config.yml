@@ -1,0 +1,5 @@
+groups:
+  usuario:
+    default: true
+    permissions:
+    - diverse.chat.admin

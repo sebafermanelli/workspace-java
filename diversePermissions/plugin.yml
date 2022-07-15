@@ -1,0 +1,9 @@
+name: DiversePermissions
+main: net.diverse.permissions.Core
+version: 1.0
+author: Diverse
+commands:
+  help:
+    description: Help command
+    usage: /<command>
+    aliases: []

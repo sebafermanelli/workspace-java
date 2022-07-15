@@ -1,0 +1,17 @@
+name: DiverseReport
+main: net.diverse.report.Core
+version: 1.0
+author: Diverse
+commands:
+  diversereport:
+    description: DiverseReport command
+    usage: /<command>
+    aliases: []
+  report:
+    description: Report command
+    usage: /<command>
+    aliases: [reportar]
+  reportlist:
+    description: ReportList command
+    usage: /<command>
+    aliases: [reportes]
