@@ -1,0 +1,7 @@
+MySQL:
+  Enable: true
+  Host: 'localhost'
+  Port: 3306
+  Database: 'diversemc'
+  Username: 'root'
+  Password: ''

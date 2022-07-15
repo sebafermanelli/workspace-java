@@ -1,0 +1,25 @@
+name: DiverseAuth
+main: net.diverse.auth.Core
+version: 1.0
+author: Diverse
+commands:
+  diverseauth:
+    description: DiverseAuth command
+    usage: /<command>
+    aliases: []
+  register:
+    description: Register command
+    usage: /<command>
+    aliases: []
+  login:
+    description: Login command
+    usage: /<command>
+    aliases: []
+  changepass:
+    description: Change password command
+    usage: /<command>
+    aliases: []
+  logout:
+    description: Logout command
+    usage: /<command>
+    aliases: []
