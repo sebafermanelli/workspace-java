@@ -1,0 +1,29 @@
+name: DiverseChat
+main: net.diverse.chat.Core
+version: 1.0
+author: Diverse
+commands:
+  diversechat:
+    description: DiverseChat command
+    usage: /<command>
+    aliases: []
+  tell:
+    description: Tell command
+    usage: /<command>
+    aliases: [msg, pm]
+  reply:
+    description: Reply command
+    usage: /<command>
+    aliases: [r]
+  conversation:
+    description: Conversation command
+    usage: /<command>
+    aliases: [conv]
+  staffchat:
+    description: Staffchat command
+    usage: /<command>
+    aliases: [sc, staff]
+  broadcast:
+    description: Broadcast command
+    usage: /<command>
+    aliases: [bc]

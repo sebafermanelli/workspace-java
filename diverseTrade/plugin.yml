@@ -1,0 +1,13 @@
+name: DiverseTrade
+main: net.diverse.trade.Core
+version: 1.0
+author: Diverse
+commands:
+  diversetrade:
+    description: DiverseTrade command
+    usage: /<command>
+    aliases: []
+  trade:
+    description: Trade command
+    usage: /<command>
+    aliases: []

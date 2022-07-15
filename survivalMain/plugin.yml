@@ -1,0 +1,29 @@
+name: DiverseMC
+main: net.diverse.mc.Core
+version: 1.0
+author: Diverse
+commands:
+  diversemc:
+    description: DiverseMC command
+    usage: /<command>
+    aliases: []
+  help:
+    description: Help command
+    usage: /<command>
+    aliases: []
+  gamemode:
+    description: Gamemode command
+    usage: /<command>
+    aliases: [gm]
+  fly:
+    description: Fly command
+    usage: /<command>
+    aliases: []
+  vanish:
+    description: Vanish command
+    usage: /<command>
+    aliases: [v]
+  teleport:
+    description: Teleport command
+    usage: /<command>
+    aliases: [tp]
